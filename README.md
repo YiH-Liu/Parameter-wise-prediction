@@ -5,7 +5,9 @@ This repository contains several Julia codes associated with "Parameter-wise pre
  This file contains four sub-files: Data1, Data2, Analysis1 and Analysis2.
 ## Data1 from Case1
  DiscreteModel.jl is responsible for generating all synthetic data from discrete model at k=100.
+ 
  solutions.jl s responsible for generating all data from PDE model at k=100.
+ 
  Plot.jl is responsible for generating Figure 2 and Figure S1 uisng data generated from DiscreteModel.jl and solutions.jl.
 ## Data2 from Case1
  DiscreteModel.jl is responsible for generating all synthetic data from discrete model at k=200.
