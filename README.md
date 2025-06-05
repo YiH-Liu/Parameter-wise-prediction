@@ -6,13 +6,13 @@ This repository contains several Julia codes associated with "Parameter-wise pre
 ## Data1 from Case1
  DiscreteModel.jl is responsible for generating all synthetic data from discrete model at k=100.
  
- solutions.jl s responsible for generating all data from PDE model at k=100.
+ solutions.jl is responsible for generating all data from PDE model at k=100.
  
  Plot.jl is responsible for generating Figure 2 and Figure S1 uisng data generated from DiscreteModel.jl and solutions.jl.
 ## Data2 from Case1
  DiscreteModel.jl is responsible for generating all synthetic data from discrete model at k=200.
  
- solutions.jl s responsible for generating all data from PDE model at k=200.
+ solutions.jl is responsible for generating all data from PDE model at k=200.
  
  Plot.jl is responsible for generating Figure S4 uisng data generated from DiscreteModel.jl and solutions.jl.
 ## Analysis1 from Case1  
@@ -25,13 +25,13 @@ This repository contains several Julia codes associated with "Parameter-wise pre
 ## Data1 from Case2
  DiscreteModel.jl is responsible for generating all synthetic data from discrete model at k=100.
  
- ContinuumModel.jl s responsible for generating all data from PDE model at k=100.
+ ContinuumModel.jl is responsible for generating all data from PDE model at k=100.
  
  Plot.jl is responsible for generating Figure 3 uisng data generated from DiscreteModel.jl and solutions.jl from both Data1 and Data2 in Case2.
-## Data1 from Case2
- DiscreteModel.jl is responsible for generating all synthetic data from discrete model at k=100.
+## Data2 from Case2
+ DiscreteModel.jl is responsible for generating all synthetic data from discrete model at k=600.
  
- ContinuumModel.jl s responsible for generating all data from PDE model at k=100.
+ ContinuumModel.jl is responsible for generating all data from PDE model at k=600.
  
  Plot.jl is responsible for generating Figure S2 and Figure S3 uisng data generated from DiscreteModel.jl and solutions.jl from Data2.
 ## Analysis1 from Case2  
