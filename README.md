@@ -1,5 +1,5 @@
 # Parameter-wise-prediction
-This repository contains several Julia codes associated with "Parameter-wise predictions for random walk models in the life sciences" by Yihan Liu, David J. Warne, and Matthew J. Simpson. The preprint is available at 
+This repository contains several Julia codes associated with "Parameter-wise predictions and sensitivity analysis for random walk models in the life sciences" by Yihan Liu, David J. Warne, and Matthew J. Simpson. The preprint is available at 
 
 # Case1
  This file contains four sub-files: Data1, Data2, Analysis1 and Analysis2.
